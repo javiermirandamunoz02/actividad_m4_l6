@@ -1,0 +1,4 @@
+Línea 1: Aprendiendo a persistir datos en Python.
+Línea 2: El manejo de archivos es fundamental.
+Línea 3: Practicando con el método write().
+Línea 4: Esta línea fue agregada posteriormente.
